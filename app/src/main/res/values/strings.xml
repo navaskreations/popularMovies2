@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_sortby_label">Sort By</string>
+    <string name="pref_sortby_label_popular" >Most Popular</string>
+    <string name="pref_sortby_label_rating" >Highest Rated</string>
+    <string name="pref_sortby_label_favourite" >User Favourite</string>
+
+    <string name="pref_sortby_key" translatable="false">sortby</string>
+    <string name="pref_sortby_popular" translatable="false">Most Popular</string>
+    <string name="pref_sortby_rating" translatable="false">Highest Rated</string>
+    <string name="pref_sortby_favourite" translatable="false">User Favourite</string>
+
+    <string name="contentDescriptor" translatable="false">Movie Poster</string>
+
+    <string name="testTitle" translatable="false">Movie Title</string>
+    <string name="testRating" translatable="false">8.1</string>
+    <string name="testRelease" translatable="false">26-Apr-18</string>
+    <string name="testOverview" translatable="false">Overview</string>
+
+    <string name="results" >results</string>
+    <string name="id" >id</string>
+    <string name="title" >title</string>
+    <string name="thumbnail" >poster_path</string>
+    <string name="plot_synopsis" >overview</string>
+    <string name="user_rating" >vote_average</string>
+    <string name="releasedate" >release_date</string>
+
+    <string name="key" >key</string>
+    <string name="type" >type</string>
+    <string name="site" >site</string>
+    <string name="Trailer" >Trailer</string>
+    <string name="YouTube" >YouTube</string>
+
+
+
+    <string name="author" >author</string>
+    <string name="content" >content</string>
+
+
+    <string name="error_message">An error has occurred while loading data from web, please try refresh.</string>
+    <string name="error_message_fav">Your Favourite List is Empty.</string>
+
+    <string name="action_refresh">REFRESH</string>
+
+    <!-- Please add API Key in PARAM_VALUE filed before testing.-->
+    <string name="api_key">api_key</string>
+    <string name="api_key_value"></string>
+
+
+
+
+
+</resources>
